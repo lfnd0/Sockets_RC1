@@ -1,8 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu urna ut ante tristique imperdiet.
-Curabitur at mi sed odio iaculis ornare at vel lorem. Vestibulum ac tempus est.
-Aenean ullamcorper mauris quis nunc viverra placerat. Sed at semper elit, id consectetur mi.
-Curabitur diam quam, dictum ut iaculis ac, interdum id felis. Integer leo ex, lacinia quis bibendum ut, dictum nec nibh.
-Mauris gravida consequat ex, vitae accumsan nulla facilisis non.
-Quisque leo orci, viverra nec nisi venenatis, congue laoreet mauris. Morbi aliquet velit turpis, non ullamcorper risus finibus quis.
-Sed pharetra posuere sem, nec lobortis massa semper id. Praesent in rutrum lacus.
-Aliquam gravida sem ex, eu ullamcorper dolor tempor vitae.
+Enviando arquivo de texto com conexao UDP.
